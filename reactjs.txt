@@ -1,0 +1,2 @@
+Create new app with React Native 
+React + Redux 
